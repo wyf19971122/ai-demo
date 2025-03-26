@@ -1,0 +1,9 @@
+spring:
+  application:
+   name: spring-ai-demo
+  ai:
+    openai:
+      api-key: sk-rYIIuFjPYDdtNqv4hLaw2T716ZoPiA0VcHSCdfqneVhWCbqP
+      base-url: https://chatapi.littlewheat.com
+server:
+  port: 8095
